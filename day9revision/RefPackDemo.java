@@ -1,5 +1,5 @@
 //RefPackDemo
-package day9revision;
+package day9Revision;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

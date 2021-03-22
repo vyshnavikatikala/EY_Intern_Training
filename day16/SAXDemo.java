@@ -22,7 +22,9 @@ class MyXMLHandler extends DefaultHandler {
 	}
 
 	@Override
-	public void endDocument() throws SAXException {
+	pu	blic
+
+	void endDocument() throws SAXException {
 		System.out.println("parsing ends");
 	}
 

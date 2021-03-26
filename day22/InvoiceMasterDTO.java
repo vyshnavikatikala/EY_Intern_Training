@@ -1,4 +1,4 @@
-package day22lab;
+package day22;
 import java.io.Serializable;
 import java.util.Date;
 import java.time.LocalDate;

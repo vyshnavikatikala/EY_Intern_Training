@@ -1,4 +1,4 @@
-package day22lab;
+package day22;
 
 import java.io.FileInputStream;
 import java.sql.Connection;

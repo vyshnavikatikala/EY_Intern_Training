@@ -1,4 +1,4 @@
-package day22;
+package day22DatabaseCreation;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

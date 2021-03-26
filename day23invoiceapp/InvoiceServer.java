@@ -34,15 +34,15 @@ import com.itextpdf.text.pdf.PdfPCell;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 
-import day22.CustomerMasterDAOImpl;
-import day22.CustomerMasterDTO;
-import day22.DBUtility;
-import day22.InvoiceMasterDAOImpl;
-import day22.InvoiceMasterDTO;
-import day22.ItemMasterDAOImpl;
-import day22.ItemMasterDTO;
-import day22.ItemTransactionMasterDAOImpl;
-import day22.ItemTransactionMasterDTO;
+import day22DatabaseCreation.CustomerMasterDAOImpl;
+import day22DatabaseCreation.CustomerMasterDTO;
+import day22DatabaseCreation.DBUtility;
+import day22DatabaseCreation.InvoiceMasterDAOImpl;
+import day22DatabaseCreation.InvoiceMasterDTO;
+import day22DatabaseCreation.ItemMasterDAOImpl;
+import day22DatabaseCreation.ItemMasterDTO;
+import day22DatabaseCreation.ItemTransactionMasterDAOImpl;
+import day22DatabaseCreation.ItemTransactionMasterDTO;
 
 public class InvoiceServer extends UnicastRemoteObject implements Invoice {
 

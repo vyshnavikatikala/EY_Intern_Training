@@ -1,5 +1,5 @@
 //CloneDemo
-package day10Revision;
+package day10;
 
 public class CloneDemo3 {
 	public static void main(String[] args) throws Exception {

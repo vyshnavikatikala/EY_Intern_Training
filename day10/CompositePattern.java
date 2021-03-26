@@ -1,4 +1,4 @@
-package day10Revision;
+package day10;
 
 public class CompositePattern {
 	public static void main(String[] args) throws Exception {
